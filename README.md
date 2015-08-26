@@ -2,6 +2,8 @@
 
 Skype Message Editor is a simple program that sends a custom-crafted POST request to the skype and tricks it into changing another's user message
 
+Please keep in mind that this should ***ONLY*** be used to test the vulnerability and you should not modify any messages without the explicit permission of the other person
+
 Instructons on how to use it:
 
 1) Download Fiddler (http://www.telerik.com/download/fiddler)
