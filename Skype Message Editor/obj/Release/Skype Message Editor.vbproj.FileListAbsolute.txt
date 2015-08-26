@@ -1,0 +1,10 @@
+c:\users\knackrack615\documents\visual studio 2013\Projects\Skype Message Editor\Skype Message Editor\bin\Release\Skype Message Editor.exe
+c:\users\knackrack615\documents\visual studio 2013\Projects\Skype Message Editor\Skype Message Editor\bin\Release\Skype Message Editor.pdb
+c:\users\knackrack615\documents\visual studio 2013\Projects\Skype Message Editor\Skype Message Editor\bin\Release\Skype Message Editor.xml
+c:\users\knackrack615\documents\visual studio 2013\Projects\Skype Message Editor\Skype Message Editor\obj\Release\Skype_Message_Editor.Credits.resources
+c:\users\knackrack615\documents\visual studio 2013\Projects\Skype Message Editor\Skype Message Editor\obj\Release\Skype_Message_Editor.Form1.resources
+c:\users\knackrack615\documents\visual studio 2013\Projects\Skype Message Editor\Skype Message Editor\obj\Release\Skype_Message_Editor.Resources.resources
+c:\users\knackrack615\documents\visual studio 2013\Projects\Skype Message Editor\Skype Message Editor\obj\Release\Skype Message Editor.vbproj.GenerateResource.Cache
+c:\users\knackrack615\documents\visual studio 2013\Projects\Skype Message Editor\Skype Message Editor\obj\Release\Skype Message Editor.exe
+c:\users\knackrack615\documents\visual studio 2013\Projects\Skype Message Editor\Skype Message Editor\obj\Release\Skype Message Editor.xml
+c:\users\knackrack615\documents\visual studio 2013\Projects\Skype Message Editor\Skype Message Editor\obj\Release\Skype Message Editor.pdb
