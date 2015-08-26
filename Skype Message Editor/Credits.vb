@@ -17,4 +17,8 @@
     Private Sub LinkLabel3_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles LinkLabel3.LinkClicked
         System.Diagnostics.Process.Start("http://hgcommunity.net/")
     End Sub
+
+    Private Sub LinkLabel4_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles LinkLabel4.LinkClicked
+        System.Diagnostics.Process.Start("http://eyenoom.deviantart.com/")
+    End Sub
 End Class
