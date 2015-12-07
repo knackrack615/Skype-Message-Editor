@@ -41,6 +41,3 @@ Instructons on how to use it:
 17) Thats it! :)
 
 This just shows how unsecure skype is.. MICROSOFT PLEASE FIX!
-
-
-This just shows how unsecure skype is.. MICROSOFT PLEASE FIX!
